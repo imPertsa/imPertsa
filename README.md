@@ -1,3 +1,3 @@
-Cloud/DevOps Engineer specializing in AWS and Python.
+Cloud Solutions Architect, focusing on AWS/Azure
 
 https://imuroin.net
