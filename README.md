@@ -1,3 +1,3 @@
-Cloud Solutions Architect, focusing on AWS/Azure
+Cloud Solution Architect, focusing on AWS/Azure
 
 https://imuroin.net
